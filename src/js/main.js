@@ -26,3 +26,9 @@ $(".slider").slick({
   speed: 1000,
   slidesToShow: 1,
 });
+$(".product-slider").slick({
+  dots: true,
+  infinite: true,
+  speed: 1000,
+  slidesToShow: 1,
+});
